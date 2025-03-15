@@ -1,4 +1,4 @@
-# gold_foil
+# gold_foil( iamrengoku04@gmail.com mail me if you could contribute to the project)
 
 This project integrates **Llama 3.1** as a agent with the **LangChain framework** to enable network diagnostics and analysis through simple natural language prompts. It leverages a suite of powerful networking tools to identify potential issues, vulnerabilities, and threats in a network.
 
